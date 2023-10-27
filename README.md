@@ -24,7 +24,7 @@
  ![GoLang](https://img.shields.io/badge/Golang-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=yellow)
  ![NPM](https://img.shields.io/badge/NPM-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=red)
  ![Terraform](https://img.shields.io/badge/Terraform-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=green)
-
+[![An image of @shreya111111's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shreya111111)](https://holopin.io/@shreya111111)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shreya111111&show_icons=true&locale=en&layout=compact" alt="shreya111111" /></p>
 
