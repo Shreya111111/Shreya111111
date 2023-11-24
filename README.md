@@ -10,6 +10,7 @@
 - 🌱 I’m currently learning **React Js and Java**
 
 - 📫 How to reach me **shreyanalawade882@gmail.com**
+- Check my Tech Blogs at [Dev Community](https://dev.to/shreya111111)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
